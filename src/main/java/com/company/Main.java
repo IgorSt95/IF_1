@@ -502,7 +502,7 @@ System.out.println("vi nazshali q");
 //            System.out.println("VendorError: " + ex.getErrorCode());
 //        }
 System.out.println(Inet4Address.getByName("www.google.com.ua").getHostAddress());
-        System.out.printf("text");
+        System.out.println("text");
     }
 //
 //    static Inet4Address getLocalHost() {
